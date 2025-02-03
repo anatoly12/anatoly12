@@ -25,4 +25,3 @@ I'm Anatoly Policastro, a Seasoned Full-Stack Engineer with 10+ years of experie
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anatoly12&show_icons=true&locale=en&theme=react" alt="anatoly12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anatoly12&theme=react" alt="anatoly12" /></p>
