@@ -11,7 +11,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-I'm Anatoly Policastro, a Seasoned Full-Stack Engineer with 14+ years of experience in full-stack development using technologies like React, Angular, and Node.js. Adept at leading cross-functional teams to deliver scalable, high-quality web applications.
+I'm Anatoly Policastro, a Seasoned Full-Stack Engineer with 10+ years of experience in full-stack development using technologies like React, Angular, and Node.js. Adept at leading cross-functional teams to deliver scalable, high-quality web applications.
 
 - :house: I'm located at NY
 - :computer: I'm currently working as a Full Stack Engineer
