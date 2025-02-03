@@ -13,7 +13,7 @@
 
 I'm Anatoly Policastro, a Seasoned Full-Stack Engineer with 10+ years of experience in full-stack development using technologies like React, Angular, and Node.js. Adept at leading cross-functional teams to deliver scalable, high-quality web applications.
 
-- :house: I'm located at Washigton, DC
+- :house: I'm located at NY
 - :computer: I'm currently working as a Full Stack Engineer
 - ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
