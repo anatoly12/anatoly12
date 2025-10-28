@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Anatoly Policastro, Full Stack Web Developer :computer:<br>
+  <br> I'm Anatoly Policastro, Senior Full Stack Web Developer :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -11,7 +11,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-I'm Anatoly Policastro, a Seasoned Full-Stack Engineer with 10+ years of experience in full-stack development using technologies like React, Angular, and Node.js. Adept at leading cross-functional teams to deliver scalable, high-quality web applications.
+I'm Anatoly Policastro, a Senior Full-Stack Engineer with 10+ years of experience in full-stack development using technologies like React, Next, Angular, and Node.js. Adept at leading cross-functional teams to deliver scalable, high-quality web applications.
 
 - :house: I'm located at NY
 - :computer: I'm currently working as a Full Stack Engineer
